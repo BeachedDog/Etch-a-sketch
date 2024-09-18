@@ -1,0 +1,1 @@
+This is a small etch-a-sketch project. It is not anticipated that this will take more than an couple hours to complete. This is to go along with the Odin Project curriculum.
